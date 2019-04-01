@@ -1,0 +1,7 @@
+.*
+TAGS
+doc
+gen_doc
+*.o
+*.txt
+*.exe
